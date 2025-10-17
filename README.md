@@ -1,2 +1,3 @@
-# poor-speaker-check
-My first try at making some NS code. Man I suck...
+# brando-github-test
+Welcome to my test grounds, stranger
+This is where I learn and test how to github
